@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">IT21083396 supplementary assessment</string>
+    <string name="home">Home</string>
+    <string name="username2">" user Name"</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="userregistration">"User Registration "</string>
+    <string name="radiobtnmale">Male</string>
+    <string name="radiobtnfemale">Female</string>
+    <string name="btnadd">Add</string>
+    <string name="btnupdateprofile">Update Profile</string>
+    <string name="dob">Date of Birth</string>
+    <string name="editprofile">Edit Profile</string>
+    <string name="add">Add</string>
+    <string name="btnedit">Edit</string>
+    <string name="btndelete">Delete</string>
+    <string name="gender">Gender</string>
 </resources>
